@@ -34,11 +34,20 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+A more fluid and focused form of code that allows other programmers and the browser to understand/follow the code more clearly
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+Display block adds a line break after the element
+Display inline-block  does not add a line break allows for element to sit next to other elments
 
 3. What are the 4 areas of the box model?
+1. Content
+2. Padding
+3. Border
+4. Margin
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
+Cross Axis
 
 5. Explain why git is valuable to a team of developers.
 

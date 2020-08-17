@@ -47,9 +47,44 @@ table {
 	border-spacing: 0;
 }
 
-* {
-    box-sizing: border-box;
+html { 
+    font-size: 62.5%;
+
 }
+
+* {
+    box-sizing : border-box;
+}
+
+
+
+ .lambda-img {
+     display: flex;
+     flex-direction: row;
+     margin-bottom: 4rem;
+
+
+ }
+
+a, .header-nav {
+    text-decoration: none;
+     display: flex;
+     flex-direction: row;
+     justify-content: right;
+     font-size: 2rem;
+     color: black;
+     margin-left: 9rem;
+      
+     
+ }
+
+ .text-container {
+    margin-top: 2rem;
+    font-size: 1.5rem;
+
+ }
+
+
 
 html, body {
     height: 100%;
@@ -126,6 +161,12 @@ p {
     padding-right: 0;
 }
 
+.comntainer, .boxes {
+    display: flex;
+
+
+}
+
 footer {
     width: 100%;
     background: black;
@@ -138,9 +179,13 @@ footer nav {
     align-items: center;
     padding: 20px 2%;
     font-size: 14px;
+
 }
 
 footer nav a {
     color: white;
     text-decoration: none;
+
 }
+
+.ab
